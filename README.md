@@ -14,6 +14,7 @@ Zvanični sajt kursa: [http://ml.matf.bg.ac.rs/](http://ml.matf.bg.ac.rs/)
 |:--------|:------|
 | 1 | [Uvod u programski jezik Python i pakete numpy i matplotlib](https://matf.webex.com/matf/ldr.php?RCID=275dc0326fab680d615d675770cd44b6) |
 | 2 | [Biblioteka Pandas; Podsetnik na važne koncepte linearne algebre i matematičke analize](https://matf.webex.com/matf/ldr.php?RCID=ea1272c8cb28cf20cc1a1dcf2844dd77) |
+| 3 | [Statistički podsetnik; Linearna regresija](https://matf.webex.com/matf/ldr.php?RCID=d46c799f59a43fd56d86e446083870c1)
 
 
 Video materijali su zaštićeni lozinkom. Da biste dobili lozinku možete kontaktirati asistente mejlom na milan_cugurovic [at] matf.bg.ac.rs ili andjelkaz [at] matf.bg.ac.rs. 
