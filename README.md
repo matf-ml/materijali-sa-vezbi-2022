@@ -19,6 +19,7 @@ Zvanični sajt kursa: [http://ml.matf.bg.ac.rs/](http://ml.matf.bg.ac.rs/)
 | 5 | [Logistička regresija; Rad sa tekstualnim podacima; Klasifikacija tekstualnih poruka](https://matf.webex.com/matf/ldr.php?RCID=a9fa620942a5e49e32cb71d2cb9af85d) |
 | 6 | [Rad sa nebalansiranim skupovima podataka; Višeklasna klasifikacija](https://matf.webex.com/matf/ldr.php?RCID=af11ed5fbbcc209525c752f9f4dd0b5e) |
 | 7 | [Kerneli; Linearni i polinomijalni SVM; Nadaraja-Votson regresija; Izbor vrednosti hiperparametara](https://matf.webex.com/matf/ldr.php?RCID=41d75df748e1d92222d1e94fe78c83d8)
+| 8 | [Stabla odlučivanja; Slučajne šume; Prosta agregacija (eng. bagging); Pojačavanje (eng. boosting); Cevovodi (eng. pipelines)](https://matf.webex.com/matf/ldr.php?RCID=3b02b82e5ae3d916dfd234cc329642a0)
 
 Video materijali su zaštićeni lozinkom. Da biste dobili lozinku možete kontaktirati asistente mejlom na milan_cugurovic [at] matf.bg.ac.rs ili andjelkaz [at] matf.bg.ac.rs. 
 
