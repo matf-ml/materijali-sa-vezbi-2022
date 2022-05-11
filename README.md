@@ -20,7 +20,8 @@ Zvanični sajt kursa: [http://ml.matf.bg.ac.rs/](http://ml.matf.bg.ac.rs/)
 | 6 | [Rad sa nebalansiranim skupovima podataka; Višeklasna klasifikacija](https://matf.webex.com/matf/ldr.php?RCID=af11ed5fbbcc209525c752f9f4dd0b5e) |
 | 7 | [Kerneli; Linearni i polinomijalni SVM; Nadaraja-Votson regresija; Izbor vrednosti hiperparametara](https://matf.webex.com/matf/ldr.php?RCID=41d75df748e1d92222d1e94fe78c83d8)|
 | 8 | [Stabla odlučivanja; Slučajne šume; Prosta agregacija (eng. bagging); Pojačavanje (eng. boosting); Cevovodi (eng. pipelines)](https://matf.webex.com/matf/ldr.php?RCID=3b02b82e5ae3d916dfd234cc329642a0)|
-| 9 | [Selekcija i evaluacija modela sa i bez hiperparametara; Regularizacija](https://matf.webex.com/matf/ldr.php?RCID=284beaba041a401a0733ba7c9068ab70)
+| 9 | [Selekcija i evaluacija modela sa i bez hiperparametara; Regularizacija](https://matf.webex.com/matf/ldr.php?RCID=284beaba041a401a0733ba7c9068ab70) |
+| 10 | [Potpuno povezane neuronske mreže](https://matf.webex.com/matf/ldr.php?RCID=5b57e6c38f5d7182a3872d51b1c4786e)|
 
 Video materijali su zaštićeni lozinkom. Da biste dobili lozinku možete kontaktirati asistente mejlom na milan_cugurovic [at] matf.bg.ac.rs ili andjelkaz [at] matf.bg.ac.rs. 
 
