@@ -23,6 +23,7 @@ Zvanični sajt kursa: [http://ml.matf.bg.ac.rs/](http://ml.matf.bg.ac.rs/)
 | 9 | [Selekcija i evaluacija modela sa i bez hiperparametara; Regularizacija](https://matf.webex.com/matf/ldr.php?RCID=284beaba041a401a0733ba7c9068ab70) |
 | 10 | [Potpuno povezane neuronske mreže](https://matf.webex.com/matf/ldr.php?RCID=5b57e6c38f5d7182a3872d51b1c4786e)|
 | 11 | [Konvolutivne neuronske mreže](https://matf.webex.com/matf/ldr.php?RCID=67887580301fd2965dcd60cb3a93e7aa)
+| 12 | [Autoenkoderi. Generativne suparnicke mreže (GAN-ovi)] (https://matf.webex.com/matf/ldr.php?RCID=04ab0db1c1d88364a33c6edc33655140)
 
 Video materijali su zaštićeni lozinkom. Da biste dobili lozinku možete kontaktirati asistente mejlom na milan_cugurovic [at] matf.bg.ac.rs ili andjelkaz [at] matf.bg.ac.rs. 
 
